@@ -1,0 +1,1086 @@
+[
+  {
+    "Name": "Rohit Sharma",
+    "Team": "India"
+  },
+  {
+    "Name": "Virat Kohli",
+    "Team": "India"
+  },
+  {
+    "Name": "Rishabh Pant",
+    "Team": "India"
+  },
+  {
+    "Name": "Suryakumar Yadav",
+    "Team": "India"
+  },
+  {
+    "Name": "Axar Patel",
+    "Team": "India"
+  },
+  {
+    "Name": "Shivam Dube",
+    "Team": "India"
+  },
+  {
+    "Name": "Hardik Pandya",
+    "Team": "India"
+  },
+  {
+    "Name": "Ravindra Jadeja",
+    "Team": "India"
+  },
+  {
+    "Name": "Reeza Hendricks",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Quinton de Kock",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Aiden Markram",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Tristan Stubbs",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Heinrich Klaasen",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "David Miller",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Marco Jansen",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Keshav Maharaj",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Kagiso Rabada",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Anrich Nortje",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "batsmanName",
+    "Team": "teamInnings"
+  },
+  {
+    "Name": "Rahmanullah Gurbaz",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Ibrahim Zadran",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Azmatullah Omarzai",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Karim Janat",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Rashid Khan",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Mohammad Nabi",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Gulbadin Naib",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Nangeyalia Kharote",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Travis Head",
+    "Team": "Australia"
+  },
+  {
+    "Name": "David Warner",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Mitchell Marsh",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Glenn Maxwell",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Marcus Stoinis",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Tim David",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Matthew Wade",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Pat Cummins",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Ashton Agar",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Adam Zampa",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Steven Taylor",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Andries Gous",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Nitish Kumar",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Aaron Jones",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Corey Anderson",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Milind Kumar",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Harmeet Singh",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Shadley van Schalkwyk",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Ali Khan",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Nosthush Kenjige",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Phil Salt",
+    "Team": "England"
+  },
+  {
+    "Name": "Jos Buttler",
+    "Team": "England"
+  },
+  {
+    "Name": "Litton Das",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Tanzid Hasan",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Najmul Hossain Shanto",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Shakib Al Hasan",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Soumya Sarkar",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Towhid Hridoy",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Mahmudullah",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Rishad Hossain",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Tanzim Hasan Sakib",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Taskin Ahmed",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Noor Ahmad",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Naveen-ul-Haq",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Kyle Mayers",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Shai Hope",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Nicholas Pooran",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Roston Chase",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Rovman Powell",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Sherfane Rutherford",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Andre Russell",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Akeal Hosein",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Alzarri Joseph",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Gudakesh Motie",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Arshdeep Singh",
+    "Team": "India"
+  },
+  {
+    "Name": "Moeen Ali",
+    "Team": "England"
+  },
+  {
+    "Name": "Jonny Bairstow",
+    "Team": "England"
+  },
+  {
+    "Name": "Harry Brook",
+    "Team": "England"
+  },
+  {
+    "Name": "Sam Curran",
+    "Team": "England"
+  },
+  {
+    "Name": "Liam Livingstone",
+    "Team": "England"
+  },
+  {
+    "Name": "Chris Jordan",
+    "Team": "England"
+  },
+  {
+    "Name": "Jofra Archer",
+    "Team": "England"
+  },
+  {
+    "Name": "Adil Rashid",
+    "Team": "England"
+  },
+  {
+    "Name": "Mitchell Starc",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Jaker Ali",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Mahedi Hasan",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Johnson Charles",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Hazratullah Zazai",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Najibullah Zadran",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Brandon King",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Romario Shepherd",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Tony Ura",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Assad Vala",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Charles Amini",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Sese Bau",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Hiri Hiri",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Chad Soper",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Kiplin Doriga",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Norman Vanua",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Alei Nao",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Kabua Morea",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Finn Allen",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Devon Conway",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Rachin Ravindra",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Kane Williamson",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Daryl Mitchell",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Shayan Jahangir",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Jasdeep Singh",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Andy Balbirnie",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Paul Stirling",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Lorcan Tucker",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Harry Tector",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Curtis Campher",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "George Dockrell",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Gareth Delany",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Mark Adair",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Barry McCarthy",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Josh Little",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Mohammad Rizwan",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Saim Ayub",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Babar Azam",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Fakhar Zaman",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Usman Khan",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Shadab Khan",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Imad Wasim",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Abbas Afridi",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Shaheen Shah Afridi",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Pathum Nissanka",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Kusal Mendis",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Kamindu Mendis",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Dhananjaya de Silva",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Charith Asalanka",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Angelo Mathews",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Dasun Shanaka",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Wanindu Hasaranga",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Michael Levitt",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Max O'Dowd",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Vikramjit Singh",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Sybrand Engelbrecht",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Scott Edwards",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Bas de Leede",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Logan van Beek",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Tim Pringle",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Aryan Dutt",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Paul van Meekeren",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Kushal Bhurtel",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Aasif Sheikh",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Anil Sah",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Rohit Paudel",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Sundeep Jora",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Kushal Malla",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Dipendra Singh Airee",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Gulsan Jha",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Sompal Kami",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Sandeep Lamichhane",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "George Munsey",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Michael Jones",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Brandon McMullen",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Richie Berrington",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Matthew Cross",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Michael Leask",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Chris Greaves",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Michael van Lingen",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Nikolaas Davin",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "David Wiese",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Gerhard Erasmus",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "JJ Smit",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Ronak Patel",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Simon Ssesazi",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Robinson Obuya",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Alpesh Ramjani",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Kenneth Waiswa",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Riazat Ali Shah",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Dinesh Nakrani",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Brian Masaba",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Fred Achelam",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Juma Miyagi",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Pratik Athavale",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Kashyap Prajapati",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Aqib Ilyas",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Zeeshan Maqsood",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Khalid Kail",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Ayaan Khan",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Shoaib Khan",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Mehran Khan",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Fayyaz Butt",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Kaleemullah",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Will Jacks",
+    "Team": "England"
+  },
+  {
+    "Name": "Glenn Phillips",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "James Neesham",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Mitchell Santner",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Tim Southee",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Trent Boult",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Lega Siaka",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "John Kariko",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Jan Frylinck",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Zane Green",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Ruben Trumpelmann",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Bernard Scholtz",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Jack Brassell",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Aaron Johnson",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Navneet Dhaliwal",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Pargat Singh",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Nicholas Kirton",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Shreyas Movva",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Ravinderpal Singh",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Saad Bin Zafar",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Kaleem Sana",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Dilon Heyliger",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Naseem Khushi",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Rafiullah",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Shakeel Ahmed",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Jasprit Bumrah",
+    "Team": "India"
+  },
+  {
+    "Name": "Iftikhar Ahmed",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Naseem Shah",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Roger Mukasa",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Cosmas Kyewuta",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Teja Nidamanuru",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Dilpreet Bajwa",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Maheesh Theekshana",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Matheesha Pathirana",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Mark Chapman",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Michael Bracewell",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Matt Henry",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Lockie Ferguson",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Azam Khan",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Haris Rauf",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Monank Patel",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "JP Kotze",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Malan Kruger",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Bilal Hassan",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Karan KC",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Sagar Dhakal",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Sadeera Samarawickrama",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Mohammad Nadeem",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Tabraiz Shamsi",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Kuldeep Yadav",
+    "Team": "India"
+  },
+  {
+    "Name": "Fazalhaq Farooqi",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Mustafizur Rahman",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Josh Hazlewood",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Reece Topley",
+    "Team": "England"
+  },
+  {
+    "Name": "Saurabh Netravalkar",
+    "Team": "United States of America"
+  },
+  {
+    "Name": "Obed McCoy",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Mark Wood",
+    "Team": "England"
+  },
+  {
+    "Name": "Ottneil Baartman",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Ish Sodhi",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Semo Kamea",
+    "Team": "Papua New Guinea"
+  },
+  {
+    "Name": "Abinash Bohara",
+    "Team": "Nepal"
+  },
+  {
+    "Name": "Vivian Kingma",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Nuwan Thushara",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Nathan Ellis",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Brad Wheal",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Mark Watt",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Chris Sole",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Safyaan Sharif",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Bilal Khan",
+    "Team": "Oman"
+  },
+  {
+    "Name": "Mohammad Amir",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Ben White",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Jeremy Gordon",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Junaid Siddiqui",
+    "Team": "Canada"
+  },
+  {
+    "Name": "Mohammed Siraj",
+    "Team": "India"
+  },
+  {
+    "Name": "Ben Shikongo",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Frank Nsubuga",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Brad Currie",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Tangeni Lungameni",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Craig Young",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Henry Ssenyondo",
+    "Team": "Uganda"
+  },
+  {
+    "Name": "Mujeeb Ur Rahman",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Mark Wood",
+    "Team": ""
+  },
+  {
+    "Name": "Jofra Archer",
+    "Team": ""
+  },
+  {
+    "Name": "Moeen Ali",
+    "Team": ""
+  },
+  {
+    "Name": "Chris Jordan",
+    "Team": ""
+  },
+  {
+    "Name": "Adil Rashid",
+    "Team": ""
+  },
+  {
+    "Name": "Nikhil Dutta",
+    "Team": "Canada"
+  }
+]
