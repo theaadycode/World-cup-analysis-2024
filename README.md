@@ -23,9 +23,4 @@ Project Workflow:
 
 ---
 
-# Screenshots of the Dashboard:
 
- ![openers/Power_Hitters]("C:\Users\HP\Desktop\t20 wc 2024\ss\Players Based on Parameters (openersPower Hitters).png")
- ![Anchors/Middle_Order]("C:\Users\HP\Desktop\t20 wc 2024\ss\Players Based on Parameters (AnchorsMiddle Order).png")
- ![Bowler]("C:\Users\HP\Desktop\t20 wc 2024\ss\Players Based on Parameters (Bowler).png")
- ![All Rounders/Power_Hitters]https://github.com/theaadycode/World-cup-analysis 2024/blob/main/ss/Players%20Based%20on%20Parameters%20(All%20RoundersPower%20Hitters).png
